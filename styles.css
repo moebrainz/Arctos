@@ -30,10 +30,14 @@ h5 {
     font-weight: 200;
 }
 
+.row {
+    margin-left: unset !important;
+}
+
 
 .container__body  {
     margin-top: 0px 40px;
-    padding: 30px;
+    padding: 20px;
     max-width: 1200px;
     margin: auto;
 }
@@ -179,7 +183,7 @@ footer a {
 
 .foot-agree {
     font-size: 14px;
-    padding: 20px 100px;
+    padding: 20px 10px;
 }
 
 .img__class {
